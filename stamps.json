@@ -1,0 +1,470 @@
+{
+    "3.1r0": {
+        "version_name": "sarge",
+        "timestamp": "20051217T000000Z"
+    },
+    "3.0r6": {
+        "version_name": "woody",
+        "timestamp": "20070407T000000Z"
+    },
+    "3.1r1": {
+        "version_name": "sarge",
+        "timestamp": "20060417T000000Z"
+    },
+    "6.0.8": {
+        "version_name": "squeeze",
+        "timestamp": "20140215T040431Z"
+    },
+    "7.2": {
+        "version_name": "wheezy",
+        "timestamp": "20131214T095105Z"
+    },
+    "4.0r2": {
+        "version_name": "etch",
+        "timestamp": "20080217T000000Z"
+    },
+    "3.1r7": {
+        "version_name": "sarge",
+        "timestamp": "20080412T000000Z"
+    },
+    "3.0r4": {
+        "version_name": "woody",
+        "timestamp": "20050416T000000Z"
+    },
+    "4.0r3": {
+        "version_name": "etch",
+        "timestamp": "20080726T000000Z"
+    },
+    "3.1r8": {
+        "version_name": "sarge",
+        "timestamp": "20081027T000000Z"
+    },
+    "5.0.8": {
+        "version_name": "lenny",
+        "timestamp": "20111001T092022Z"
+    },
+    "6.0.2": {
+        "version_name": "squeeze",
+        "timestamp": "20111008T100859Z"
+    },
+    "3.0r5": {
+        "version_name": "woody",
+        "timestamp": "20050601T000000Z"
+    },
+    "6.0.10": {
+        "version_name": "squeeze",
+        "timestamp": "20160301T215315Z"
+    },
+    "7.9": {
+        "version_name": "wheezy",
+        "timestamp": "20160402T041108Z"
+    },
+    "8.2": {
+        "version_name": "jessie",
+        "timestamp": "20160123T100707Z"
+    },
+    "4.0r8": {
+        "version_name": "etch",
+        "timestamp": "20100522T095434Z"
+    },
+    "5.0.3": {
+        "version_name": "lenny",
+        "timestamp": "20100130T095319Z"
+    },
+    "6.0.1": {
+        "version_name": "squeeze",
+        "timestamp": "20110625T091101Z"
+    },
+    "5.0.4": {
+        "version_name": "lenny",
+        "timestamp": "20100626T035608Z"
+    },
+    "6.0.6": {
+        "version_name": "squeeze",
+        "timestamp": "20130223T095106Z"
+    },
+    "6.0.9": {
+        "version_name": "squeeze",
+        "timestamp": "20140719T101444Z"
+    },
+    "7.4": {
+        "version_name": "wheezy",
+        "timestamp": "20140426T042554Z"
+    },
+    "5.0.9": {
+        "version_name": "lenny",
+        "timestamp": "20120310T094026Z"
+    },
+    "6.0.3": {
+        "version_name": "squeeze",
+        "timestamp": "20120128T092831Z"
+    },
+    "6.0.7": {
+        "version_name": "squeeze",
+        "timestamp": "20131019T094633Z"
+    },
+    "7.1": {
+        "version_name": "wheezy",
+        "timestamp": "20131012T100757Z"
+    },
+    "4.0r0": {
+        "version_name": "etch",
+        "timestamp": "20070815T000000Z"
+    },
+    "3.1r6": {
+        "version_name": "sarge",
+        "timestamp": "20071227T000000Z"
+    },
+    "7.11": {
+        "version_name": "wheezy",
+        "timestamp": "20190706T025754Z"
+    },
+    "8.10": {
+        "version_name": "jessie",
+        "timestamp": "20180623T082738Z"
+    },
+    "9.3": {
+        "version_name": "stretch",
+        "timestamp": "20180309T161017Z"
+    },
+    "8.9": {
+        "version_name": "jessie",
+        "timestamp": "20171209T035643Z"
+    },
+    "9.1": {
+        "version_name": "stretch",
+        "timestamp": "20171007T032909Z"
+    },
+    "9.4": {
+        "version_name": "stretch",
+        "timestamp": "20180714T034929Z"
+    },
+    "4.0r1": {
+        "version_name": "etch",
+        "timestamp": "20071226T000000Z"
+    },
+    "8.6": {
+        "version_name": "jessie",
+        "timestamp": "20170114T093853Z"
+    },
+    "8.11": {
+        "version_name": "jessie",
+        "timestamp": "20230322T152120Z"
+    },
+    "9.11": {
+        "version_name": "stretch",
+        "timestamp": "20200208T085232Z"
+    },
+    "10.1": {
+        "version_name": "buster",
+        "timestamp": "20191116T030727Z"
+    },
+    "8.3": {
+        "version_name": "jessie",
+        "timestamp": "20160402T041108Z"
+    },
+    "5.0.6": {
+        "version_name": "lenny",
+        "timestamp": "20101127T085524Z"
+    },
+    "5.0.1": {
+        "version_name": "lenny",
+        "timestamp": "20090627T161506Z"
+    },
+    "3.1r2": {
+        "version_name": "sarge",
+        "timestamp": "20060831T000000Z"
+    },
+    "7.8": {
+        "version_name": "wheezy",
+        "timestamp": "20150905T033133Z"
+    },
+    "8.1": {
+        "version_name": "jessie",
+        "timestamp": "20150905T033133Z"
+    },
+    "6.0.4": {
+        "version_name": "squeeze",
+        "timestamp": "20120512T091629Z"
+    },
+    "8.8": {
+        "version_name": "jessie",
+        "timestamp": "20170722T040820Z"
+    },
+    "9.0": {
+        "version_name": "stretch",
+        "timestamp": "20170722T040820Z"
+    },
+    "9.13": {
+        "version_name": "stretch",
+        "timestamp": "20230423T032533Z"
+    },
+    "10.11": {
+        "version_name": "buster",
+        "timestamp": "20220326T025251Z"
+    },
+    "11.2": {
+        "version_name": "bullseye",
+        "timestamp": "20220326T025251Z"
+    },
+    "8.0": {
+        "version_name": "jessie",
+        "timestamp": "20150606T100444Z"
+    },
+    "10.7": {
+        "version_name": "buster",
+        "timestamp": "20210206T085119Z"
+    },
+    "6.0.5": {
+        "version_name": "squeeze",
+        "timestamp": "20120929T091613Z"
+    },
+    "5.0.5": {
+        "version_name": "lenny",
+        "timestamp": "20100904T085425Z"
+    },
+    "9.9": {
+        "version_name": "stretch",
+        "timestamp": "20190903T162652Z"
+    },
+    "3.1r3": {
+        "version_name": "sarge",
+        "timestamp": "20061028T000000Z"
+    },
+    "4.0r4": {
+        "version_name": "etch",
+        "timestamp": "20081023T000000Z"
+    },
+    "3.1r5": {
+        "version_name": "sarge",
+        "timestamp": "20070407T000000Z"
+    },
+    "4.0r7": {
+        "version_name": "etch",
+        "timestamp": "20090409T161602Z"
+    },
+    "5.0": {
+        "version_name": "lenny",
+        "timestamp": "20090411T161210Z"
+    },
+    "3.1r4": {
+        "version_name": "sarge",
+        "timestamp": "20070217T000000Z"
+    },
+    "9.8": {
+        "version_name": "stretch",
+        "timestamp": "20190427T032722Z"
+    },
+    "10.0": {
+        "version_name": "buster",
+        "timestamp": "20190903T162652Z"
+    },
+    "7.0.0": {
+        "version_name": "wheezy",
+        "timestamp": "20130615T101937Z"
+    },
+    "5.0.7": {
+        "version_name": "lenny",
+        "timestamp": "20110122T084010Z"
+    },
+    "10.2": {
+        "version_name": "buster",
+        "timestamp": "20200208T085232Z"
+    },
+    "9.7": {
+        "version_name": "stretch",
+        "timestamp": "20190216T030629Z"
+    },
+    "9.2": {
+        "version_name": "stretch",
+        "timestamp": "20171209T035643Z"
+    },
+    "8.7": {
+        "version_name": "jessie",
+        "timestamp": "20170506T092656Z"
+    },
+    "9.5": {
+        "version_name": "stretch",
+        "timestamp": "20181110T040548Z"
+    },
+    "5.0.2": {
+        "version_name": "lenny",
+        "timestamp": "20090904T163018Z"
+    },
+    "8.5": {
+        "version_name": "jessie",
+        "timestamp": "20160917T042239Z"
+    },
+    "10.4": {
+        "version_name": "buster",
+        "timestamp": "20200801T030228Z"
+    },
+    "4.0r6": {
+        "version_name": "etch",
+        "timestamp": "20090209T211218Z"
+    },
+    "4.0r9": {
+        "version_name": "etch",
+        "timestamp": "20100620T172521Z"
+    },
+    "9.12": {
+        "version_name": "stretch",
+        "timestamp": "20200718T085446Z"
+    },
+    "10.3": {
+        "version_name": "buster",
+        "timestamp": "20200509T025130Z"
+    },
+    "6.0": {
+        "version_name": "squeeze",
+        "timestamp": "20110319T091054Z"
+    },
+    "7.6": {
+        "version_name": "wheezy",
+        "timestamp": "20141018T105339Z"
+    },
+    "7.3": {
+        "version_name": "wheezy",
+        "timestamp": "20140208T101637Z"
+    },
+    "4.0r5": {
+        "version_name": "etch",
+        "timestamp": "20081217T000000Z"
+    },
+    "7.10": {
+        "version_name": "wheezy",
+        "timestamp": "20160604T041011Z"
+    },
+    "8.4": {
+        "version_name": "jessie",
+        "timestamp": "20160604T041011Z"
+    },
+    "11.1": {
+        "version_name": "bullseye",
+        "timestamp": "20211218T084245Z"
+    },
+    "10.12": {
+        "version_name": "buster",
+        "timestamp": "20220909T154316Z"
+    },
+    "11.4": {
+        "version_name": "bullseye",
+        "timestamp": "20220909T154316Z"
+    },
+    "7.5": {
+        "version_name": "wheezy",
+        "timestamp": "20140712T041016Z"
+    },
+    "7.7": {
+        "version_name": "wheezy",
+        "timestamp": "20150110T095629Z"
+    },
+    "10.13": {
+        "version_name": "buster",
+        "timestamp": "20241123T083310Z"
+    },
+    "11.5": {
+        "version_name": "bullseye",
+        "timestamp": "20221217T033412Z"
+    },
+    "11.6": {
+        "version_name": "bullseye",
+        "timestamp": "20230428T030634Z"
+    },
+    "10.10": {
+        "version_name": "buster",
+        "timestamp": "20211009T024746Z"
+    },
+    "11.0": {
+        "version_name": "bullseye",
+        "timestamp": "20211009T024746Z"
+    },
+    "10.6": {
+        "version_name": "buster",
+        "timestamp": "20201205T034710Z"
+    },
+    "10.5": {
+        "version_name": "buster",
+        "timestamp": "20200926T035837Z"
+    },
+    "11.3": {
+        "version_name": "bullseye",
+        "timestamp": "20220709T031205Z"
+    },
+    "11.8": {
+        "version_name": "bullseye",
+        "timestamp": "20240209T152219Z"
+    },
+    "12.2": {
+        "version_name": "bookworm",
+        "timestamp": "20231208T150859Z"
+    },
+    "9.6": {
+        "version_name": "stretch",
+        "timestamp": "20190123T164658Z"
+    },
+    "10.8": {
+        "version_name": "buster",
+        "timestamp": "20210327T030822Z"
+    },
+    "11.9": {
+        "version_name": "bullseye",
+        "timestamp": "20240629T023442Z"
+    },
+    "12.5": {
+        "version_name": "bookworm",
+        "timestamp": "20240629T023442Z"
+    },
+    "10.9": {
+        "version_name": "buster",
+        "timestamp": "20210619T092347Z"
+    },
+    "11.7": {
+        "version_name": "bullseye",
+        "timestamp": "20231007T024024Z"
+    },
+    "12.1": {
+        "version_name": "bookworm",
+        "timestamp": "20231007T024024Z"
+    },
+    "12.0": {
+        "version_name": "bookworm",
+        "timestamp": "20230722T085252Z"
+    },
+    "11.10": {
+        "version_name": "bullseye",
+        "timestamp": "20240831T023941Z"
+    },
+    "12.6": {
+        "version_name": "bookworm",
+        "timestamp": "20240831T023941Z"
+    },
+    "12.4": {
+        "version_name": "bookworm",
+        "timestamp": "20240209T152219Z"
+    },
+    "11.11": {
+        "version_name": "bullseye",
+        "timestamp": "20241123T083310Z"
+    },
+    "12.7": {
+        "version_name": "bookworm",
+        "timestamp": "20241109T082826Z"
+    },
+    "12.3": {
+        "version_name": "bookworm",
+        "timestamp": "20231210T093158Z"
+    },
+    "9.10": {
+        "version_name": "stretch",
+        "timestamp": "20190908T172415Z"
+    },
+    "12.8": {
+        "version_name": "bookworm",
+        "timestamp": "20241123T083310Z"
+    },
+    "5.0.10": {
+        "version_name": "lenny",
+        "timestamp": "20120330T223249Z"
+    }
+}
