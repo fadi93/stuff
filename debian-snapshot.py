@@ -287,13 +287,28 @@ d-i pkgsel/upgrade select none
 ### Finishing up the first stage install
 d-i finish-install/reboot_in_progress note
 
-### Postinstall
+
+###Postinstall
 d-i preseed/late_command string \\
 echo "***************** Executing Post install scripts *******************";\\
-in-target /bin/sh -c '/bin/sh -x /root/in_target_tasks_ks_new.cfg 2>&1 | tee -a /root/in_target_tasks.log'; \\
-cp /var/log/partman /target/root/partman.log; \\
-test -e /tmp/partman_ec_log && mv /tmp/partman_ec_log /target/root/; \\
-cp /var/log/syslog /target/root/inst_syslog.log;
+cp /var/log/partman /target/root/partman.log; cp /var/log/syslog /target/root/inst_syslog.log; mkdir /target/mnt/tmp;\\
+apt-install apt-file; in-target /usr/bin/apt-file update; in-target apt-get -y remove mpt-status; \\
+printf "domain lab.mtl.com server nis" >> /etc/yp.conf; \\
+cp /etc/yp.conf /target/etc/yp.conf; \\
+echo -e '3tango:3tango' | passwd root --stdin ;\\
+printf "#!/bin/bash -x\\ncat /etc/resolv.conf >> /root/post2.log" >> /target/root/mount.script.sh ;\\
+printf "\\nnslookup site-labfs01 >> /root/post2.log" >> /target/root/mount.script.sh ;\\
+printf "\\ncat /etc/resolv.conf >> /root/post2.log" >> /target/root/mount.script.sh ;\\
+printf "\\nnslookup site-labfs01 >> /root/post2.log" >> /target/root/mount.script.sh ;\\
+chmod +x /target/root/mount.script.sh ;\\
+printf "#!/bin/bash\\n/etc/init.d/rpcbind start\\n/etc/init.d/nfs-common start\\n/root/mount.script.sh >> /root/post1.log 2>&1\\nmount -o nolock site-labfs01:/vol/GL""IT /mnt/tmp >> /root/mount_post.log 2>&1\\n/bin/bash -x /mnt/tmp/autoinstall/postinstall_rs.sh 'multi-new nogrub' >> /root/postinstall.stdout  2>&1\\necho \"\" > /etc/rc.local" > /target/etc/rc.local ;\\
+chmod +x /target/etc/rc.local 
+
+d-i finish-install/reboot_in_progress note
+
+
+
+
 """
 
     # Iterate through the stamps data and create preseed files
